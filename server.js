@@ -33,6 +33,6 @@ app.use('/events', eventRoutes);
 
 
 
-app.listen(8080, () => console.log("server on!"));
+app.listen(process.env.PORT || 80, () => console.log("server on!"));
 
 module.exports = app;
