@@ -1,5 +1,5 @@
 ![clip-940](https://user-images.githubusercontent.com/59587662/101992656-c6512d80-3c93-11eb-9cd1-850882846b1e.png)
-# <center> Come on {WOMAN}! </center>
+# <center>Come on {WOMAN}!</center>
 
 
 ## Descrição
@@ -16,7 +16,7 @@ Esse projeto é uma API de cadastro de eventos para mulheres que são ou almejam
 
 ## Tecnologias Utilizadas
 
-### Para contrução da API
+### Para construção da API
 
 * Node.js v. 12.18.3;
 * Gerenciador de pacotes node npm v. 6.14.6;
