@@ -1,4 +1,6 @@
-: # Come on {WOMAN}! :
+![clip-940](https://user-images.githubusercontent.com/59587662/101992656-c6512d80-3c93-11eb-9cd1-850882846b1e.png)
+# Come on {WOMAN}!
+
 
 ## Descrição
 
