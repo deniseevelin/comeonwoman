@@ -1,6 +1,5 @@
 # Come on {WOMAN}!
 
-
 ## Descrição
 
 Esse projeto é uma API de cadastro de eventos para mulheres que são ou almejam ser da área de tecnologia. Muitas vezes eu senti uma necessidade de encontrar as informações desses vários eventos em um único lugar, e assim fosse mais fácil de compartilhar o link para várias mulheres e lá elas (e eu também) pudessemos encontrar os eventos que mais nos interessariam. Também teríamos a oportunidade de cadastrar eventos que ainda não estariam salvos. Serão cadastrados eventos como:
@@ -20,14 +19,14 @@ Esse projeto é uma API de cadastro de eventos para mulheres que são ou almejam
 * Node.js v. 12.18.3;
 * Gerenciador de pacotes node npm v. 6.14.6;
 * As dependências node:
-bcryptjs, v. 2.4.3
-body-parser v. 1.19.0
-cors, v. 2.8.5
-date-fns v. 2.16.1
-dotenv v. 8.2.0
-express v. 4.17.1
-jsonwebtoken v. 8.5.1
-mongoose v. 5.11.4
+bcryptjs, v. 2.4.3,
+body-parser v. 1.19.0,
+cors, v. 2.8.5,
+date-fns v. 2.16.1,
+dotenv v. 8.2.0,
+express v. 4.17.1,
+jsonwebtoken v. 8.5.1,
+mongoose v. 5.11.4,
 nodemon v. 2.0.6;
 * Banco de dados NoSQL MongoDB;
 * Editor de códigos VSCode.
