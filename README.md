@@ -23,7 +23,7 @@ Esse projeto é uma API de cadastro de eventos para mulheres que são ou almejam
 * As dependências node:
 bcryptjs, v. 2.4.3,
 body-parser v. 1.19.0,
-cors, v. 2.8.5,
+cors v. 2.8.5,
 date-fns v. 2.16.1,
 dotenv v. 8.2.0,
 express v. 4.17.1,
