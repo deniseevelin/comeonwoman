@@ -37,6 +37,6 @@ npm start
 https://www.getpostman.com/collections/6a598e3f35b40a2fc3a6
 ```
 
-## Heroku swagger url
+## Heroku URL
 
-- https://morning-castle-48340.herokuapp.com/swagger-ui.html
+- https://comeonwoman.herokuapp.com
